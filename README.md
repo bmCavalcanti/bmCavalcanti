@@ -7,6 +7,7 @@
 <img align="left" alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />
 <img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" />
 <img align="left" alt="JQuery" title="JQuery" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
 <img align="left" alt="Symfony" title="Symfony" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg" />
@@ -21,6 +22,8 @@
 
 <img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
 <img align="left" alt="Oracle" title="Oracle" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/oracle.svg" />
+<img align="left" alt="CSharp" title="CSharp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
+<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
 
 <br>
 
