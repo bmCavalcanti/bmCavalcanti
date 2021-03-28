@@ -36,6 +36,8 @@
 <br>
 <br>
 
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=bmCavalcanti.visitor-badge)](https://github.com/bmCavalcanti)
+
 ---
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=bmCavalcanti&show_icons=true&count_private=true&custom_title=Github Stats&theme=material-palenight" />
