@@ -40,9 +40,7 @@
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=bmCavalcanti&show_icons=true&count_private=true&custom_title=Github Stats&theme=material-palenight" />
-
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmCavalcanti&layout=compact&theme=material-palenight" />
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmCavalcanti&theme=material-palenight" />
 
 [facebook]: https://www.facebook.com/bmCavalcanti
 [instagram]: https://www.instagram.com/bm_cavalcanti/
