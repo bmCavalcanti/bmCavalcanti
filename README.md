@@ -1,4 +1,4 @@
-### Hi, I'm Bianca Cavalcanti 👋
+### Hi, I'm Bianca
 
 #### I'm a web developer and student.
 
