@@ -1,6 +1,6 @@
 ### Oii, meu nome é Bianca :)
 
-#### tenho 24 anos e sou desenvolvedora web
+#### tenho 24 anos e sou tech lead
 
 #### Sociais:
 
