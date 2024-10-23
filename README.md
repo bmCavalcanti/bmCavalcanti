@@ -9,8 +9,4 @@
 <br>
 <br>
 
----
-
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmCavalcanti&theme=material-palenight" />
-
 [linkedin]: https://www.linkedin.com/in/bmCavalcanti/
