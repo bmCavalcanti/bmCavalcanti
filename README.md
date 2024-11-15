@@ -1,6 +1,6 @@
 ### Oii, meu nome é Bianca :)
 
-#### tenho 24 anos e sou tech lead
+#### tenho 24 anos, 6 de experiencia e sou tech lead :D
 
 #### Sociais:
 
